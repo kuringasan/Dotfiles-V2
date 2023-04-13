@@ -1,4 +1,4 @@
-Check "Instructions.txt" for each folder!
+Check "instructions.txt" for each folder!
 
 
 ![vai pro github](https://user-images.githubusercontent.com/29405747/231881667-2185987a-7115-451a-a858-f8376100974d.png)
