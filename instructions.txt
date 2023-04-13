@@ -1,0 +1,1 @@
+install i3lock and place i3lock.png at ~/Pictures/
