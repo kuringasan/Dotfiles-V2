@@ -62,6 +62,8 @@ bindsym mod1+q kill
 # .desktop file. It is a wrapper around dmenu, so you need that installed.
 # bindcode $mod+40 exec --no-startup-id i3-dmenu-desktop
 bindsym mod1+x exec --no-startup-id rofi -show drun
+bindsym mod1+z exec --no-startup-id rofi -show power-menu -modi power-menu:rofi-power-menu
+
 # change focus
  ##bindsym $mod+j focus left
  ##bindsym $mod+k focus down
